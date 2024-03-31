@@ -1,5 +1,6 @@
 
 //Used with arithmetic and logical operations!
+//see cheetsheet for eg.
 // let numStr ="3.14";
 // let num = Number(numStr);
 // console.log(numStr);
