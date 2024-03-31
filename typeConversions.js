@@ -1,3 +1,5 @@
+
+//Used with arithmetic and logical operations!
 // let numStr ="3.14";
 // let num = Number(numStr);
 // console.log(numStr);
@@ -28,4 +30,3 @@ let text1= "JavaScript is my fav language";
 let index= text1.indexOf("is");
 console.log(index);
 
-//a
